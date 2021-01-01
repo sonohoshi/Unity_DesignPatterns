@@ -20,3 +20,5 @@
 
 2. 싱글톤 클래스의 인스턴스는 메모리에서 사라지지 않는다.  
 이는 메모리를 비효율 적으로 사용하게 된다는 말이 되므로, 싱글톤의 남발은 저사양 게임을 상당히 무겁게 만들 수 있다.
+
+[https://velog.io/@sonohoshi/4.-싱글톤-패턴-with-Unity](https://velog.io/@sonohoshi/4.-싱글톤-패턴-with-Unity)
