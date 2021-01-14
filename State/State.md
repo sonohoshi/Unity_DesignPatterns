@@ -62,3 +62,5 @@ override void PushButton()
 `ex) 전투 중, 여러 버프나 디버프를 받고 있을 경우`
 
 2. 상태가 너무 많으면 각 상태를 바꾸는 코드를 적는데에도 조건문이 많이 들어가게 될 수 있다.  
+
+[https://velog.io/@sonohoshi/5.-상태-패턴-with-Unity](https://velog.io/@sonohoshi/5.-상태-패턴-with-Unity)
